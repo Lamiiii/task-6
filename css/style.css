@@ -1,0 +1,25 @@
+h1{
+    font-weight: 700;
+    font-size: 50px;
+
+}
+p{
+    font-size: 20px;
+    margin-bottom: 70px;
+    margin: 20px;
+    
+}
+
+
+div.svg{
+    font-size: 20px;
+    padding-left: 0px;
+    margin-top: 40px;
+}
+.bi-arrow-left{
+    color: blue;
+}
+div.svg-color{
+    font-size: 50px;
+
+}
